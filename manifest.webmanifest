@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Pharma Practice Quiz",
+  "short_name": "Pharma Quiz",
+  "description": "A mobile-first pharmacology quiz based on your course materials.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#f6f6f2",
+  "theme_color": "#f6f6f2",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
